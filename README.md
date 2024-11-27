@@ -10,7 +10,6 @@ This project is developed to classify Turkish news texts using Natural Language 
 - [Dataset](#dataset)
 - [Method](#method)
 - [Results](#results)
-- [Installation and Running Instructions](#installation-and-running-instructions)
 
 ## Project Overview
 
