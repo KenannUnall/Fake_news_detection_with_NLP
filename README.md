@@ -33,10 +33,10 @@ The project is developed using the following technologies and libraries:
 
 ## Project Structure
 
-├── dataset.xlsx # Dataset used in the project 
-├── turkce-stop-words.txt # Turkish stopwords list 
-├── main.ipynb # Main Jupyter notebook file 
-├── README.md # Project description
+- `dataset.xlsx`         : Dataset used in the project
+- `turkce-stop-words.txt` : Turkish stopwords list
+- `main.ipynb`            : Main Jupyter notebook file
+- `README.md`             : Project description
 
 
 ## Dataset
